@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML related to the usage of innerHTML. The bug involves appending text to a div using innerHTML, which leads to unexpected behavior. The solution shows the correct way to append text to a div using innerHTML or alternative methods.
